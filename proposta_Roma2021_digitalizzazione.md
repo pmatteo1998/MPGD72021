@@ -26,8 +26,9 @@ come richiesto da molteplici persone,sarebbe utile ed efficente se si avesse una
 
 ## aggiornamento online dello stato della pratica
 
-essendo alcune pratiche complicate e con vari passaggi sarebbe ottimo comunicare al cittadino a quale passaggio della procedura e' e dare una stiama (con dei margini di errore piu' o meno ampi) di quando la procedura'sara conclusa
+essendo alcune pratiche complicate e con vari passaggi sarebbe ottimo comunicare al cittadino a quale passaggio della procedura e' e dare una stiama (con dei margini di errore piu' o meno ampi) di quando la procedura' sara conclusa
 
 ## semplificazione rispettando le leggi 
 
 non e' un segreto che la macchina statale sia farraginosa e complicata, un buon sistema informatico e una buona interfaccia grafica  chiara, coincisa e semplice da comprendere (soprattutto per quanto riguarda il linguaggio,troppe volte troppo formale/legale/istituzionale) possa provvedere ad un'inizio di semplificazione della PA , chiesta a gran voce da tutti. questo non vuol dire per forza cambiare le leggi, ma avere un buon "mediatore" tra esso e la macchina burocratica statale.
+
